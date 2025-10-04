@@ -12,7 +12,7 @@ title: About Us
 		registered in Queensland and have a dedicated team of organizers.
 	</p>
 	<h3 class="text-center text-xl font-semibold mb-3"><span aria-hidden="true">📄</span> A More Detailed Look at Brisbane Social Chess</h3>
-	<ul class="list-disc list-inside space-y-3">
+	<ul class="list-disc list-inside space-y-3 text-base">
 		<li><strong>Focus:</strong> We emphasize social interaction and fun, making it a welcoming space for players of all skill levels.</li>
 		<li><strong>Community Driven:</strong> We encourage community participation in various aspects, including website development,
 			Discord server management, and event organization.
@@ -172,7 +172,7 @@ title: About Us
 	</h3>
 	<div class="flex flex-wrap justify-center items-start md:items-end gap-6 mb-8">
 		<a href="https://github.com/BaseMax" class="flex flex-col items-center text-center team-role team-role-lead-developer text-team-role-lead-developer">
-			<img class="w-35 md:w-50 lg:w-[300px] aspect-square rounded-full object-cover mb-2" src="{{ '/assets/avatars/basemax.jpeg' | url }}" alt="Max Base avatar" />
+			<img class="w-32 md:w-48 lg:w-[300px] aspect-square rounded-full object-cover mb-2" src="{{ '/assets/avatars/basemax.jpeg' | url }}" alt="Max Base avatar" />
 			<span class="font-medium">Max Base</span>
 			<span class="github">@BaseMax</span>
 		</a>
@@ -225,7 +225,7 @@ title: About Us
 	</h3>
 	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 justify-items-center">
 		<a href="https://github.com/therealnugget" class="flex flex-col items-center text-center team-role team-role-coordinator text-team-role-coordinator">
-			<img class="w-32 md:w-40 lg:w-[225px] aspect-square rounded-full object-cover mb-2" src="{{ '/assets/avatars/therealnugget.jpeg' | url }}" alt="therealnugget avatar" />
+			<img class="w-32 md:w-48 lg:w-[300px] aspect-square rounded-full object-cover mb-2" src="{{ '/assets/avatars/therealnugget.jpeg' | url }}" alt="therealnugget avatar" />
 			<span class="font-medium">Thomas</span>
 			<span class="github">@therealnugget</span>
 		</a>
